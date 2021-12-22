@@ -1,4 +1,3 @@
-# springboot-hexagonal
 
 # Arquitetura Hexagonal
 Padrão arquitetural que tem como objetivo organizar o código de uma forma que a camada de negócio fique isolada de fatores externos como banco de dados, APIS, mensageria
