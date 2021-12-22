@@ -6,5 +6,7 @@ e integrações entre sistemas, é principio de IOC(inversão de controle) o dom
 ![image](https://user-images.githubusercontent.com/59370831/147095053-f9e7cef0-7f4d-4eb9-a14f-c0e42d76f910.png)
 
 Port: onde é feito a ligação com o centro do hexagono.
+
 Adapter: são as entradas e saídas, para cada adapter temos uma porta.
+
 Domain: onde ficam as regras de negócio.
